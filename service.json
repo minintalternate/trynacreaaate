@@ -1,0 +1,8 @@
+{
+    "name": "somecrating",
+    "description": "This is a description of the microservice.",
+    "runtime": "nodejs6.10",
+    "memory": 128,
+    "timeout": 30,
+    "path": "/"
+}
