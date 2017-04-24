@@ -1,0 +1,15 @@
+{
+  "name": "somecrating",
+  "version": "0.0.1",
+  "description": "This is a description of the microservice.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk": "^2.29.0",
+    "babel-polyfill": "^6.20.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
